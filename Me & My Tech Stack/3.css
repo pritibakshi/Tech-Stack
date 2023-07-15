@@ -1,0 +1,35 @@
+.container{
+    margin-left: 6.5rem;
+    margin-top: 4rem;
+    width: 1200px;
+    background-color: aliceblue;
+    background-size: auto;
+    display: flex;
+    gap:250px;
+}
+#Me{
+    color:red;
+    font-size:2rem;
+}
+
+.left-part{
+width:500px;
+text-align: left;
+}
+
+.right-part{
+    padding:0.2rem;
+    flex-wrap: wrap;
+}
+
+span{
+    font-size:3rem;
+}
+.project-skill{
+    width:60px;
+    padding:0.2rem;
+}
+.p1{
+    color: rgb(176, 82, 238);
+    background-color: brown;
+}
